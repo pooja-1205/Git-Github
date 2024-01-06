@@ -1,5 +1,5 @@
 # Git-Github
-I am trying to learn Git and Github Commands and exploring it .  
+I am trying to learn Git Commands and exploring it .  
 <br>
 Lets start .
 <br>
